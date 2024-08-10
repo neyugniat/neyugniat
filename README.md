@@ -1,5 +1,4 @@
-<img src="assets/1.gif" width=100% height="300" overflow= "hidden"/>
-
+<img src="assets/1.gif" class="myGif"/>
 ** 👨‍💻 ABOUT ME**
 
 -   🔭 I’m currently working on a Spring Boot and ReactJS project.
