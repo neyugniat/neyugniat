@@ -1,4 +1,4 @@
-<img src="assets/2.gif"/>
+<img src="assets/3.gif"/>
 ** 👨‍💻 ABOUT ME**
 
 -   🔭 I’m currently working on a Spring Boot and ReactJS project.
