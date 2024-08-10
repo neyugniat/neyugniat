@@ -1,6 +1,6 @@
 ![](assets/1.gif)
 
-<img src="assets/1.gif" width="400" height="300" alt="Your GIF Description" />
+<img src="assets/1.gif" width=100% height="300" alt="Your GIF Description" />
 
 ** 👨‍💻 ABOUT ME**
 
