@@ -1,7 +1,8 @@
 ![](assets/1.gif)
-**Hi there 👋, I'm Tai Nguyen**
 
-**ABOUT ME**
+<img src="assets/1.gif" width="400" height="300" alt="Your GIF Description" />
+
+** 👨‍💻 ABOUT ME**
 
 -   🔭 I’m currently working on a Spring Boot and ReactJS project.
 -   🌱 I’m currently learning Spring Boot.
